@@ -16,5 +16,6 @@
 | [**Ferrux**](https://github.com/FerraStack/ferrux) | A terminal and Linux environment for Android, a modern alternative to Termux | Rust core · Kotlin shell |
 | [**Ferride**](https://github.com/FerraStack/ferride) | A code editor built for phones, with syntax highlighting, LSP and a Ferrux-powered terminal | Rust core · Jetpack Compose |
 | [**Lomio**](https://github.com/FerraStack/lomio) | A private chat app for running LLMs on your phone, fully offline | Jetpack Compose · llama.cpp |
+| [**GitLab Mobile**](https://github.com/FerraStack/gitlab-mobile) | A native GitLab client: code, merge requests, diffs, pipelines and job logs | Jetpack Compose |
 
 All projects are licensed under **Apache-2.0**. They're in early development; contributions and issues are welcome.
