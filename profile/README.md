@@ -5,7 +5,7 @@
 <h1 align="center">FerraStack</h1>
 
 <p align="center">
-  Open-source developer tools for Android.<br>
+  Open-source apps for Android.<br>
   Rust where it counts, Kotlin where it's native.
 </p>
 
@@ -17,5 +17,6 @@
 | [**Ferride**](https://github.com/FerraStack/ferride) | A code editor built for phones, with syntax highlighting, LSP and a Ferrux-powered terminal | Rust core · Jetpack Compose |
 | [**Lomio**](https://github.com/FerraStack/lomio) | A private chat app for running LLMs on your phone, fully offline | Jetpack Compose · llama.cpp |
 | [**GitLab Mobile**](https://github.com/FerraStack/gitlab-mobile) | A native GitLab client: code, merge requests, diffs, pipelines and job logs | Jetpack Compose |
+| [**Voltra**](https://github.com/FerraStack/voltra) | A private on-device battery companion: charge, wear, and time remaining | Kotlin · Jetpack Compose |
 
 All projects are licensed under **Apache-2.0**. They're in early development; contributions and issues are welcome.
